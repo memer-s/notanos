@@ -1,0 +1,32 @@
+body {
+   background-color: black;
+}
+
+pre {
+   display: inline;
+   font-family: monospace;
+   font-size: 12px;
+   color: white;
+}
+
+#terminal {
+   font-family: monospace;
+   font-size: 12px;
+   color: white;
+}
+
+.red {
+   color: red;
+}
+
+.cya {
+   color: cyan;
+}
+
+.gre {
+   color: lightgreen;
+}
+
+.cursor {
+   background-color: white;
+}
